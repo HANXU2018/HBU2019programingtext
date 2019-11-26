@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>MD5 reverse for e00cf25ad42683b3df678c61f42c6bda</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="MD5 reverse for MD5 hash e00cf25ad42683b3df678c61f42c6bda" />
+		<style>html,body,div,span,h1,h2,h3,h4,p,pre,a,abbr,acronym,big,cite,code,em,img,ins,q,s,small,strike,strong,sub,sup,b,u,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}a:focus{outline:none}html{color:#444;font-family:arial, sans-serif}body{background:#f5f5f5}.long-content{display:inline-block;word-break:break-all}#content .long-content{font-family:monospace}em{font-weight:bold}#page{background:#fff;box-shadow:0 0 20px rgba(0,0,0,0.2);margin:0 auto;padding:16px;width:1044px}#header{margin-bottom:10px}#logo a{text-decoration:none}#logo h1 a{color:#4747ff;font-size:72px;font-style:italic;font-weight:bold}#logo h2 a{font-size:13px;padding-left:20px}#announce-link-unit-after-header{border-bottom:1px solid #ddd;border-top:1px solid #ddd;margin-bottom:10px;padding:5px 0}#announce-leaderboard-after-header{margin-bottom:10px;text-align:center}#outer-wrapper:before,#outer-wrapper:after{content:" ";display:table}#outer-wrapper:after{clear:both}#inner-wrapper{float:left;margin-right:-316px;width:100%}#section{margin-right:316px}#section > h1{font-size:24px;line-height:1.75em;margin-bottom:10px}#content > p{font-size:17px;line-height:1.75em;margin-bottom:15px}#content > h2{font-size:22px;margin-bottom:10px}#content .form-hash{box-shadow:0 0 20px rgba(0,0,0,0.2);margin:20px 0;width:100%}#content .form-hash h3{background:#369;border-bottom:1px solid #ddd;color:#fff;font-size:20px;padding:15px}#content .form-hash form label{display:block;margin-right:80px}#content .form-hash form label span{display:none}#content .form-hash form label input.field{background-color:#f8f8f8;border:0;border-right:1px solid #ddd;box-sizing:border-box;float:left;height:40px;padding:1px 10px;width:100%}#content .form-hash form input.submit{border:0;cursor:pointer;height:40px;padding:1px 5px;vertical-align:top;width:80px}#content .form-hash form input.submit:active{background:#999;padding:2px 4px 0px 6px}#announce-leaderboard-between-forms{margin:20px 0;text-align:center}#latest-searches{margin-top:20px}#latest-searches h2{font-size:22px;margin-bottom:10px}#latest-searches table{width:100%}#latest-searches table thead tr th{border:1px solid #ddd;font-weight:bold;padding:10px;text-align:left}#latest-searches table tbody{font-family:"Courier New", monospace;font-size:85%}#latest-searches table tbody tr:nth-child(odd){background:#f8f8f8}#latest-searches table tbody tr td{border:1px solid #ddd;padding:10px;line-height:1.5em;word-break:break-all}#latest-searches table tbody tr td.string.empty a{font-style:italic;color:#bbb}#latest-searches table tbody tr td a{color:#777;text-decoration:none}#latest-searches table tbody tr td a:active,#latest-searches table tbody tr td a:hover{text-decoration:underline}#latest-searches h3{margin-top:0}#announce-medium-rectangle-after-content{margin-top:20px}#tip{clear:both;margin-top:20px}#tip h2{font-size:22px;margin-bottom:10px}#tip p{font-size:90%;line-height:1.75em}#tip p .link{white-space:nowrap}#aside{float:right;width:300px}#aside h2{font-size:22px;line-height:1.75em;margin-bottom:10px}#aside p{font-size:13px;line-height:1.75em;margin-bottom:1em;text-indent:10px}#links dl{font-size:13px;line-height:1.75em}#links dl dt{margin-top:10px}#links dl dd{margin:5px 0 0 10px;text-indent:10px}#links dl dd a{color:inherit;text-decoration:none}#links dl dd a:hover{text-decoration:underline}#footer{border-top:#ddd 1px solid;clear:both;font-size:80%;margin-top:40px;padding:20px 0;text-align:center}#footer .counter{margin-top:10px}@media (max-width: 1080px){#page{padding:4px;width:auto}#inner-wrapper{float:none;margin-right:0}#section{margin-right:0}#announce-medium-rectangle-after-content{text-align:center}#aside{float:none;width:100%;margin-top:20px}}@media (max-width: 736px){#announce-link-unit-after-header,#announce-leaderboard-after-header,#announce-leaderboard-between-forms,#section h1,#tip{display:none}}</style>
+		<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://md5.gromweb.com/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://md5.gromweb.com/?md5={hash}",
+		"query-input": "required name=hash"
+	}
+}
+		</script>
+	</head>
+	<body>
+		<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','/vendor/analytics.js','ga');
+ga('create', 'UA-40631251-3', 'auto');
+ga('send', 'pageview');
+		</script>
+		<div id="page">
+
+			<div id="header">
+
+<div id="logo">
+	<h1>
+		<a href="/" title="MD5 conversion and MD5 reverse lookup">MD5</a>
+	</h1>
+	<h2>
+		<a href="/" title="MD5 conversion and MD5 reverse lookup">MD5 conversion and reverse lookup</a>
+	</h2>
+</div>
+			</div>
+
+<div class="announce link-unit" id="announce-link-unit-after-header">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-9704992357033216" data-ad-slot="8774024290"></ins>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<div class="announce leaderboard" id="announce-leaderboard-after-header">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9704992357033216" data-ad-slot="5500912394"></ins>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+			<div id="outer-wrapper">
+				<div id="inner-wrapper">
+
+					<div id="section">
+
+						<h1>MD5 reverse for e00cf25ad42683b3df678c61f42c6bda</h1>
+
+						<div id="article">
+
+							<div id="content">
+
+
+<p>The MD5 hash:<br />
+<em class="long-content hash">e00cf25ad42683b3df678c61f42c6bda</em><br />
+was succesfully reversed into the string:<br />
+<em class="long-content string">admin1</em></p>
+<p>Feel free to provide some other MD5 hashes you would like to try to reverse.</p>
+<div class="form-hash" id="form_hash_to_string">
+	<h3>Reverse a MD5 hash</h3>
+	<form action="/" method="get">
+		<label>
+			<span>MD5 sum to reverse</span>
+			<input class="field" id="form_hash_to_string_hash" type="search" name="md5" value="e00cf25ad42683b3df678c61f42c6bda" maxlength="32" required pattern="[A-Fa-f\d]{32}" placeholder="Enter a MD5 hash to reverse..." />
+		</label>
+		<input id="form_hash_to_string_submit" class="button submit" type="submit" value="Reverse" />
+	</form>
+</div>
+<div class="announce leaderboard" id="announce-leaderboard-between-forms">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9704992357033216" data-ad-slot="3835793897"></ins>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p>You can generate the MD5 hash of the string which was just reversed to have the proof that it is the same as the MD5 hash you provided:</p>
+<div class="form-hash" id="form_string_to_hash">
+	<h3>Convert a string to a MD5 hash</h3>
+	<form action="/" method="get">
+		<label>
+			<span>String to hash</span>
+			<input class="field" id="form_string_to_hash_string" type="search" name="string" value="admin1" maxlength="255" placeholder="Enter a string to be converted into a MD5 hash..." />
+		</label>
+		<input id="form_string_to_hash_submit" class="button submit" type="submit" value="Convert" />
+	</form>
+</div>
+
+							</div>
+
+<div class="announce medium-rectangle" id="announce-medium-rectangle-after-content">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9704992357033216" data-ad-slot="3894622697"></ins>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<div id="latest-searches">
+	<h2>Latest succesful MD5 reverses</h2>
+	<table>
+		<thead>
+			<tr>
+				<th class="hash">Hash</th>
+				<th class="string">Reverse string</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="hash">
+					<a href="/?md5=e00cf25ad42683b3df678c61f42c6bda">e00cf25ad42683b3df678c61f42c6bda</a>
+				</td>
+				<td class="string">
+					<a href="/?string=admin1">admin1</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="hash">
+					<a href="/?md5=9289b6b6825034c264fe631a74cf6e28">9289b6b6825034c264fe631a74cf6e28</a>
+				</td>
+				<td class="string">
+					<a href="/?string=1407199214071992">1407199214071992</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="hash">
+					<a href="/?md5=1d3407bbb889dadf91aa46665d6d2f9a">1d3407bbb889dadf91aa46665d6d2f9a</a>
+				</td>
+				<td class="string">
+					<a href="/?string=1872004">1872004</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="hash">
+					<a href="/?md5=b6e0db3b4d374eb7e8d52b9f271f4822">b6e0db3b4d374eb7e8d52b9f271f4822</a>
+				</td>
+				<td class="string">
+					<a href="/?string=700126">700126</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="hash">
+					<a href="/?md5=d0684cfe844d7353619932ef26fa6e90">d0684cfe844d7353619932ef26fa6e90</a>
+				</td>
+				<td class="string">
+					<a href="/?string=mayday">mayday</a>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+						</div>
+					</div>
+
+				</div>
+
+			<div id="aside">
+
+
+				<div id="explanation">
+					<h2>What is a MD5 hash?</h2>
+					<p>
+						MD5 (Message Digest algorithm, 5th version) is an algorithm which converts a given sequence of characters into another unique sequence of characters, with a fixed length, called "hash".
+						For instance, the MD5 hash of the word <em class="string">password</em> is <em class="long-content hash">5f4dcc3b5aa765d61d8327deb882cf99</em>.
+					</p>
+					<p>
+						These hashes are mostly used to validate file integrity, to encrypt sensitive data (like passwords), and to generate unique identifiers.
+					</p>
+
+					<h2>Is it secure?</h2>
+					<p>
+						MD5 hashes are theoretically impossible to reverse directly, ie, it is not possible to retrieve the original string from a given hash using only mathematical operations.
+					</p>
+					<p>
+						Most web sites and applications store their user passwords into databases with MD5 encryption.
+						This method appears to be safe as it seems impossible to retrieve original user passwords if, say, a hacker manages to have a look at the database content.
+					</p>
+					<p>
+						Unfortunately, there is a way to decrypt a MD5 hash, using a <a href="https://en.wikipedia.org/wiki/Dictionary_attack" rel="external">dictionary populated with strings and their MD5 counterpart</a>.
+						As most users use very simple passwords (like "123456", "password", "abc123", etc), MD5 dictionaries make them very easy to retrieve.
+					</p>
+					<p>
+						This website uses a MD5 reverse dictionary containing several millions of entries, which you can use with MD5 hashes from your application.
+					</p>
+					<p>
+						If some of the hashes you enter can be reversed, consider using another way of generating hashes, like using stronger algorithms (<a href="https://en.wikipedia.org/wiki/SHA-2" rel="external">SHA-2</a>, <a href="https://en.wikipedia.org/wiki/Whirlpool_%28cryptography%29" rel="external">Whirlpool</a>, etc), combining algorithms, and using a "<a href="https://en.wikipedia.org/wiki/Salt_%28cryptography%29" rel="external">salt</a>".
+					</p>
+
+				</div>
+
+<div id="links">
+	<h2>Links</h2>
+	<dl>
+		<dt><a href="https://sha1.gromweb.com/" title="Convert and reverse SHA-1 hashes.">SHA-1 conversion and reverse lookup</a></dt>
+		<dd><a href="https://sha1.gromweb.com/">Convert and reverse SHA-1 hashes.</a></dd>
+		<dt><a href="https://cryptography.cc/" title="Encrypt, decrypt, convert, encode and decode text.">Cryptography Center</a></dt>
+		<dd><a href="https://cryptography.cc/">Encrypt, decrypt, convert, encode and decode text.</a></dd>
+		<dt><a href="https://en.wikipedia.org/wiki/MD5" title="Learn more about MD5 hashes by reading the related article on Wikipedia.org">Definition of MD5 on Wikipedia.org</a></dt>
+		<dd><a href="https://en.wikipedia.org/wiki/MD5">Learn more about MD5 hashes by reading the related article on Wikipedia.org</a></dd>
+	</dl>
+</div>
+			</div>
+			</div>
+
+<div id="footer">
+
+	<div class="copyright">
+		<p>&copy; All rights reserved 2007-2019 GromWeb.</p>
+	</div>
+	<p class="counter">Known MD5 sums: 361,089,849</p>
+
+</div>
+		</div>
+
+	</body>
+</html>
